@@ -1,0 +1,13 @@
+.card{display: block;
+      justify-content: left;
+      width: 90%;
+     height: auto;
+    background-color: rgb(34,28,49);
+    border: 2px solid black;
+    border-radius: 10px 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color:azure;
+list-style-type: none;}
